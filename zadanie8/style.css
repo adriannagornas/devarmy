@@ -1,0 +1,100 @@
+header{ position: absolute;
+  top: 0;
+  z-index: -1;
+}
+.tytuł{
+    
+    font-family: .SFNSDisplay;
+    font-size: 144px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.38;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: 65px;
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: 0.49;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+    
+}
+}
+.podtytuł{
+
+  font-family: Roboto;
+  font-size: 65px;
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: 0.49;
+  letter-spacing: normal;
+  text-align: left;
+  color:white;
+}
+.opisy{
+  display:flex
+  flex-direction:column;
+  
+}
+.welcome{
+position: relative;
+ display:flex;
+ flex-direction: column;
+  font-family: .SFNSDisplay;
+  font-size: 38px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #31475e;
+}
+.lista{
+  list-style:none;
+  display:flex;
+  justify content: space-between;
+}
+.pasek{
+  display:flex;
+  justify-content: space-between;
+  font-size: 14px;
+  z-index: 1;
+  color:white;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left:50 px;
+
+}
+nav{
+  display:flex;
+  justify-content: space-between;
+}
+.button{
+  font-family: Roboto;
+  text-align: center;
+  background-color:white;
+  background-color: var(--black);
+  color:white;
+  font-size: 20px;
+  font-weight: 600;
+  width: 175.9px;
+  height: 32px;
+  border-radius: 100px;
+  border: solid 1px #ffffff;
+  padding: 0px;}
+
+
+.button2{
+    width: 167px;
+    height: 32px;
+    color:white;
+    border-radius: 100px;
+    border: solid 1px #ffffff;
+    background-color:white;
+  background-color: var(--black);
+}
