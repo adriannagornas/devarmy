@@ -1,0 +1,74 @@
+main {
+  background-color: white;
+  width: 400px;
+  margin: 100px auto;
+}
+  nav{
+      width: 109px;
+      height: 15px;
+      
+      font-size: 12px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: normal;
+      letter-spacing: 2px;
+      text-align: left;
+      color: #4d4d4d;
+    }
+   .xyz{
+    
+      height: 12px;
+      
+      font-size: 10px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: normal;
+      letter-spacing: 2px;
+      text-align: left;
+      color: #808080;
+      display: flex;
+      justify-content: space-between;
+    }
+    #DESIGN .text-style-1 {
+      letter-spacing: normal;
+    }
+    .tytul{
+        width: 360px;
+        height: 66px;
+        font-family: .SFNSDisplay;
+        font-size: 26px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: left;
+        color: #4d4d4d;
+      }
+  .reszta{
+      width: 360px;
+      height: 36px;
+      font-family: .SFNSText;
+      font-size: 14px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4d4d4d;
+  }
+
+nav{
+  height: 15px;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #4d4d4d;
+}
